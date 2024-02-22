@@ -1,5 +1,5 @@
 {
-  "name": "project_roadmap",
+  "name": "gantt_chart",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
